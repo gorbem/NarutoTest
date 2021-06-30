@@ -1,0 +1,94 @@
+{
+  "Techniques": [
+    {
+      "Name": "Техника атомного расщепления",
+      "Element": "Пыль",
+      "SealList": [
+        "rat",
+        "boar",
+        "snake",
+        "inconcent"
+      ]
+    },
+    {
+      "Name": "Техника каменного клонирования",
+      "Element": "Земля",
+      "SealList": [
+        "sheep",
+        "monkey",
+        "horse",
+        "sheep"
+      ]
+    },
+    {
+      "Name": "Техника потока каменной волны",
+      "Element": "Земля",
+      "SealList": [
+        "rat",
+        "snake",
+        "tiger"
+      ]
+    },
+    {
+      "Name": "Техника великого водопада",
+      "Element": "Вода",
+      "SealList": [
+        "tiger",
+        "monkey",
+        "boar",
+        "dog",
+        "horse",
+        "snake",
+        "rooster",
+        "sheep",
+        "dog",
+        "snake",
+        "tiger",
+        "horse",
+        "snake",
+        "boar",
+        "rooster",
+        "sheep",
+        "horse",
+        "monkey",
+        "tiger",
+        "dog",
+        "rooster"
+      ]
+    },
+    {
+      "Name": "Техника осколков молнии",
+      "Element": "Молния",
+      "SealList": [
+        "monkey",
+        "ox",
+        "boar",
+        "tiger"
+      ]
+    },
+    {
+      "Name": "Техника грязевой реки",
+      "Element": "Земля",
+      "SealList": [
+        "tiger"
+      ]
+    },
+    {
+      "Name": "Техника тюрьмы из земляных столбов",
+      "Element": "Земля",
+      "SealList": [
+        "rat",
+        "horse",
+        "dog",
+        "snake"
+      ]
+    },
+    {
+      "Name": "Техника несокрушимой крыши",
+      "Element": "Земля",
+      "SealList": [
+        "tiger"
+      ]
+    }
+  ]
+}
